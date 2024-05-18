@@ -1,10 +1,12 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/V1F4A3D5)
-
 # LunarLore - Space Blog
 
 ## Introcution
 
 LunarLore is a website that harnesses the power of NASA's API data to provide a captivating and educational experience centered around the exploration of lunar landscapes. Through stunning imagery and insightful information, LunarLore invites users to embark on a journey to discover the wonders of the moon like never before.
+
+## Website Link
+
+The website is hosted on Netlify. You can visit it [LunarLore](https://lunarlore.netlify.app).
 
 ## Key Features
 
